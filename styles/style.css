@@ -95,19 +95,19 @@
 
 .photo1 {
     width: 25%;
-    background-image: url("../images/image1.jpg");
+    background-image: url("./images/image1.jpg");
 }
 .photo2 {
     width: 25%;
-    background-image: url("../images/image2.jpg");
+    background-image: url("./images/image2.jpg");
 }
 .photo3 {
     width: 25%;
-    background-image: url("../images/image3.jpg");
+    background-image: url("./images/image3.jpg");
 }
 .photo4 {
     width: 25%;
-    background-image: url("../images/image4.jpg");
+    background-image: url("./images/image4.jpg");
 }
 
 .photo:hover {
@@ -146,42 +146,42 @@
 .card1{
     top: 0;
     left: 0;
-    background-image: url("../photo/photo_1.jpg");
+    background-image: url("./photo/photo_1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card2{
     top: 0;
     left: 30%;
-    background-image: url("../photo/photo_2.jpg");
+    background-image: url("./photo/photo_2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card3{
     top: 0;
     left: 60%;
-    background-image: url("../photo/photo_3.jpg");
+    background-image: url("./photo/photo_3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card4{
     top: 50%;
     left: 15%;
-    background-image: url("../photo/photo_4.jpg");
+    background-image: url("./photo/photo_4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card5{
     top: 50%;
     left: 45%;
-    background-image: url("../photo/photo_5.jpg");
+    background-image: url("./photo/photo_5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card6{
     top: 50%;
     left: 75%;
-    background-image: url("../photo/photo_6.jpg");
+    background-image: url("./photo/photo_6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
